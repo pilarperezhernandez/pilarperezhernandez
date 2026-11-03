@@ -1,6 +1,6 @@
-# Pilar Pérez Hernández
-
-Mathematical Engineering & AI student at ICAI (Universidad Pontificia Comillas)
+<p align="center">
+  <img src="banner.png" alt="Pilar Pérez Hernández · Mathematical Engineering & Artificial Intelligence · ICAI, Universidad Pontificia Comillas" width="100%">
+</p>
 
 ## About
 
