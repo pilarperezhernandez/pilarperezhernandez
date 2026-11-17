@@ -5,6 +5,8 @@
   <img src="assets/banner-light.svg" alt="Pilar Pérez Hernández · Mathematical Engineering & Artificial Intelligence · ICAI, Universidad Pontificia Comillas" width="100%">
 </picture>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pilarperezhernandez"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="38"></a>&nbsp;
   <a href="mailto:pilarperher06@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="38"></a>&nbsp;
