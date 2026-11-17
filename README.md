@@ -83,18 +83,6 @@ Working with Databricks and Relevance AI on AI and technical support tasks.
       <a href="https://pilar-sales-dashboard.streamlit.app/"><b>Open the live app →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/pilarperezhernandez/agenda">agenda</a></h3>
-      Study planner that installs as an app (PWA). An automatic scheduler fits study blocks into the free time of the week and recalculates when something changes. Syncs across devices or runs in demo mode.
-      <br><br>
-      <code>PWA</code> <code>Supabase + row-level security</code> <code>ES / EN</code>
-      <br><br>
-      <sub>JavaScript · Supabase (Postgres) · HTML/CSS</sub>
-      <br><br>
-      <a href="https://pilarperezhernandez.github.io/agenda/"><b>Try the live demo →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/pilarperezhernandez/kurtz-ai-agent">kurtz-ai-agent</a></h3>
       Agents that reason with incomplete information on a hidden 6×6 grid: a logical agent with BFS, DFS and A*, a Bayesian agent driven by a risk threshold, and an MDP solved by value iteration.
       <br><br>
@@ -102,6 +90,8 @@ Working with Databricks and Relevance AI on AI and technical support tasks.
       <br><br>
       <sub>Python · NumPy · Matplotlib</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pilarperezhernandez/rsa-criptochat">rsa-criptochat</a></h3>
       RSA built from scratch on our own modular-arithmetic library, with two attacks on the cryptosystem and an encrypted command-line chat. With Jimena Zubizarreta.
@@ -110,8 +100,6 @@ Working with Databricks and Relevance AI on AI and technical support tasks.
       <br><br>
       <sub>Python · pytest</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/pilarperezhernandez/madrid-gps-navigator">madrid-gps-navigator</a></h3>
       Turn-by-turn navigator on Madrid's real street network, with our own Dijkstra, Prim and Kruskal and three route criteria, one of them accounting for traffic lights. With Jimena Zubizarreta.
@@ -120,7 +108,9 @@ Working with Databricks and Relevance AI on AI and technical support tasks.
       <br><br>
       <sub>Python · NetworkX · OSMnx · pandas</sub>
     </td>
-    <td width="50%" valign="top" align="center">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
       <br><br>
       <a href="https://github.com/pilarperezhernandez?tab=repositories"><b>All repositories →</b></a>
       <br><br>
